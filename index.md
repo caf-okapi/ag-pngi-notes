@@ -19,3 +19,9 @@ Future notes may explore:
 - cosmology as regime-relative closure  
 
 There is no posting schedule.
+
+## Notes
+
+This site may eventually contain short, focused notes on individual topics. Each note is intended to be self-contained and provisional.
+
+(Links will be added as notes are written.)
