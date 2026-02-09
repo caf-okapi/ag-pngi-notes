@@ -4,7 +4,7 @@
 
 When we ask foundational questions about reality—like why stable structures exist at all, or why anything behaves consistently—we eventually run into a wall. Questions bottom out in something taken as given: laws, principles, axioms, or constraints that are no longer explained by deeper rules.
 
-This stopping point can and has be presented in different ways, but in the end it serves the same role. Whether described mathematically, physically, or conceptually, you end at a place where rules and explanations have nothing further behind them. At that point, the question “why this, rather than something else?” is no longer, or can no longer be, answered, but is rather set aside.
+This stopping point can be, and has been, presented in different ways, but in the end it serves the same role. Whether described mathematically, physically, or conceptually, you end at a place where rules and explanations have nothing further behind them. At that point, the question “why this, rather than something else?” is no longer (or can no longer be) answered, but is rather set aside.
 
 Taking things to the most general level, there appear to be only two broad options encompassing all the possibilities: either reality is grounded in some form of foundational governance, or it is not.
 
@@ -18,11 +18,11 @@ These notes seek to explore the possibilities of option two, and to suggest how,
 
 ## Why Foundational Rules Do Not Settle the Question
 
-Nearly all (if not all) existing accounts or ideas of reality assume some form or forms of foundational governance, even if not described in those terms. Laws, principles, constraints, symmetries, or necessities are typically taken to determine what is possible and what is not (even when minimal). In this sense, governance, as will be defined for the purposes of these notes, is the default background assumption of most theoretical frameworks.
+Nearly all (if not all) existing accounts or ideas of reality assume some form or forms of foundational governance, even if not described in those terms. Laws, principles, constraints, symmetries, or necessities are typically taken to determine what is possible and what is not (even when minimal). In this sense, governance, as it will be defined for the purposes of these notes, is the default background assumption of most theoretical frameworks.
 
 These governing structures are often treated as providing explanatory closure. Regularity and stability appear accounted for because behavior is constrained by foundational rules. However, this closure is limited, since the governing principles themselves are not explained by deeper rules; they are taken as given.
 
-Because of this, foundational governance does not eliminate the deepest explanatory questions—it relocates, or perhaps ignores, them. Why these rules or those hold, rather than others, remains unanswered. And, in the end, these points can be declared brute, necessary, or beyond inquiry.
+Because of this, foundational governance does not eliminate the deepest explanatory questions—it relocates, or perhaps ignores, them. Why these rules or those hold, rather than others, remains unanswered. And, in the end, these points must end up being declared brute, necessary, beyond inquiry, or similar.
 
 ## The Remaining Possibility
 
