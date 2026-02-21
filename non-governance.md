@@ -1,3 +1,5 @@
+# Non-Governance
+
 This note aims to establish a definition of non-governance.
 
 In these notes, when we speak of non-governance, we mean that reality does not rest on foundational rules, axioms, or principles that determine what must exist, what is possible, or how things must behave at the most basic level. There is no bottom layer of rules fixing the structure of reality in advance.
