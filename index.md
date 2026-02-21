@@ -25,4 +25,4 @@ There is no posting schedule.
 This site may eventually contain short, focused notes on individual topics. Each note is intended to be self-contained and provisional.
 
 - [Does Reality Have Foundational Rules?](does-reality-have-foundational-rules.md)
-
+- [Non-Governance](non-governance.md)
