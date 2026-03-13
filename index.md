@@ -29,3 +29,4 @@ This site may eventually contain short, focused notes on individual topics. Each
 - [Ontological Openness](ontological-openness.md)
 - [The Possibility of Structure](the-possibility-of-structure.md)
 - [No Prior Stage](no-prior-stage.md)
+- [Adversarial Generativity](adversarial-generativity.md)
