@@ -27,3 +27,4 @@ This site may eventually contain short, focused notes on individual topics. Each
 - [Does Reality Have Foundational Rules?](does-reality-have-foundational-rules.md)
 - [Non-Governance](non-governance.md)
 - [Ontological Openness](ontological-openness.md)
+- [The Possibility of Structure](the-possibility-of-structure.md)
