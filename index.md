@@ -44,7 +44,7 @@ This site may eventually contain short, focused notes on individual topics. Each
 - [Compatibility and Incompatibility](compatibility-and-incompatibility.md)
 - [Stability and Reinforcement](stability-and-reinforcement.md)
 - [Composite and Emergent Structures](composite-and-emergent-structures.md)
-- []()
+- [Modes of Appearance](modes-of-appearance.md)
 
 ## Emergent Domains
 - [Structural Regimes](structural-regimes.md)
