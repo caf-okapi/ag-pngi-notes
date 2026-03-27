@@ -31,6 +31,38 @@ This site may eventually contain short, focused notes on individual topics. Each
 - [The Possibility of Structure](the-possibility-of-structure.md)
 - [No Prior Stage](no-prior-stage.md)
 
-## Generativity and Survival
+## Generativity & Survival
 - [Adversarial Generativity](adversarial-generativity.md)
 - [Persistence](persistence.md)
+- [Closure](closure.md)
+
+## Structure of Reality
+- []()
+- []()
+- []()
+
+## Relations Between Closures
+- []()
+- []()
+- []()
+
+## Emergent Domains
+- []()
+- []()
+- []()
+- []()
+
+## Physics & Constraints
+- []()
+- []()
+- []()
+
+## Self / Consciousness
+- []()
+- []()
+- []()
+
+## Ontological Implications
+- []()
+- []()
+- []()
