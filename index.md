@@ -39,9 +39,9 @@ This site may eventually contain short, focused notes on individual topics. Each
 ## Structure of Reality
 - [Closure as the Basis of Reality](closure-as-the-basis-of-reality.md)
 - [Degrees and Types of Closure](degrees-and-types-of-closure.md)
-- []()
 
 ## Relations Between Closures
+- [Compatibility and Incompatibility](compatibility-and-incompatibility.md)
 - []()
 - []()
 - []()
