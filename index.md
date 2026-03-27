@@ -37,7 +37,7 @@ This site may eventually contain short, focused notes on individual topics. Each
 - [Closure](closure.md)
 
 ## Structure of Reality
-- [Closure as the Basis for Reality](closure-as-the-basis-for-reality.md)
+- [Closure as the Basis of Reality](closure-as-the-basis-of-reality.md)
 - []()
 - []()
 
