@@ -43,7 +43,7 @@ This site may eventually contain short, focused notes on individual topics. Each
 ## Relations Between Closures
 - [Compatibility and Incompatibility](compatibility-and-incompatibility.md)
 - [Stability and Reinforcement](stability-and-reinforcement.md)
-- []()
+- [Composite and Emergent Structures](composite-and-emergent-structures.md)
 - []()
 
 ## Emergent Domains
