@@ -17,3 +17,7 @@ Some closures may remain compatible across a wide range of conditions. Others ma
 Compatibility and incompatibility therefore play a central role in determining which closures persist and which fail.
 
 Later notes will examine how compatible closures may reinforce one another and how such reinforcement may give rise to more stable and complex structures.
+
+---
+
+previous: [Degrees and Types of Closure](degrees-and-types-of-closure.md) | [index](index.md) | next: [Stability and Reinforcement](stability-and-reinforcement.md)
