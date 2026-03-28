@@ -29,3 +29,7 @@ Because of this, foundational governance does not eliminate the deepest explanat
 If foundational governance does not fully settle the deepest explanatory questions, then the remaining possibility is that reality does not rest on axiom-like rules at all. This option is rarely explored explicitly or absolutely, and not because it has been ruled out, but because most theoretical frameworks already presuppose some form of governance as a starting point.
 
 The aim of these notes is to explore this possibility directly. They examine what follows if no such background is assumed, and if the persistence of structure must instead be accounted for in other terms.
+
+---
+
+[index](index.md) | next: [Non-Governance](non-governance.md)
