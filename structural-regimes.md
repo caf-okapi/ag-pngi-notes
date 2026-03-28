@@ -2,9 +2,7 @@
 
 Closures may relate, reinforcing, remaining neutral to, or undermining one another. Some relations may have no effect, while others may support or disrupt persistence. Some closures may not relate with any others at all.
 
-Structure may emerge in association with such relations, whether among multiple closures or within a closure itself. Structure need not depend on relations among multiple closures.
-
-Some of this structure may persist.
+Structure may emerge in association with such relations, whether among multiple closures or within a closure itself. Some of this structure may persist.
 
 When such structure persists in a consistent way, it may be described as a structural regime (or closure regime).
 
