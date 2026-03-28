@@ -11,3 +11,7 @@ Nor does this possibility imply randomness or disorder. Ontological openness doe
 We will refer to this consequence as generativity. Generativity names the possibility that structure can arise when no foundational prescription determines what must exist and no foundational prohibition prevents structure from appearing.
 
 Non-governance permits generativity, but it does not guarantee outcomes. Structures may appear without enduring; they may fail to persist for many possible reasons. Later notes will examine how persistence can arise despite this openness.
+
+---
+
+previous: [Ontological Openness](ontological-openness.md) | [index](index.md) | next: [No Prior Stage](no-prior-stage.md)
