@@ -13,3 +13,7 @@ Closures may arise directly through generativity or through relations among exis
 Not all structures are closures. Many structures may fail. Closures are those that persist.
 
 Later notes will examine how closures may vary in stability and how they may give rise to more complex structural regimes.
+
+---
+
+previous: [Persistence](persistence.md) | [index](index.md) | next: [Closure as the Basis of Reality](closure-as-the-basis-of-reality.md)
