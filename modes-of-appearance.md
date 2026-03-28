@@ -7,3 +7,7 @@ Some structures may be associated with generativity without reference to other s
 These two modes do not introduce a hierarchy. Structures associated with relations are not less fundamental than those associated directly with generativity.
 
 This framework does not assume that either mode is required or that either is privileged. Both are permitted under non-governance.
+
+---
+
+previous: [Composite and Emergent Structures](composite-and-emergent-structures.md) | [index](index.md) | next: [Structural Regimes](structural-regimes.md)
