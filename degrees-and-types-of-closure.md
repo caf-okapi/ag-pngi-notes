@@ -11,3 +11,7 @@ These differences do not arise from foundational rules. They follow from the str
 Closures therefore admit degrees. Persistence is not a single, uniform property, but one that may vary across structures.
 
 Later notes will examine how such differences may give rise to more complex patterns of structure and relation.
+
+---
+
+previous: [Closure as the Basis of Reality](closure-as-the-basis-of-reality.md) | [index](index.md) | next: [Compatibility and Incompatibility](compatibility-and-incompatibility.md)
