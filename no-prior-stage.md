@@ -15,3 +15,7 @@ Structures may arise directly through generativity or through relations among ex
 Structures are therefore not assumed to appear within a pre-existing stage. Instead, some structures may themselves establish the conditions within which relations become meaningful, or emerge in the relationships between structures — as may occur in structures such as space and time.
 
 Later notes will examine how such structures could arise and how they could persist.
+
+---
+
+previous: [The Possibility of Structure](the-possibility-of-structure.md) | [index](index.md) | next: [Adversarial Generativity](adversarial-generativity.md)
