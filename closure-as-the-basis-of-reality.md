@@ -13,3 +13,7 @@ Reality, in this framework, consists of closures.
 Closures do not exist within a pre-existing world; they constitute what is present.
 
 Later notes will examine how closures may differ in stability and how more complex forms of structure may arise from relations among closures.
+
+---
+
+previous: [Closure](closure.md) | [index](index.md) | next: [Degrees and Types of Closure](degrees-and-types-of-closure.md)
