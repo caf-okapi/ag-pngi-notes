@@ -11,3 +11,7 @@ These structures may also persist. When they do, they are closures.
 The framework does not assume a single mode of appearance. Structures may arise directly through generativity or through relations among existing structures.
 
 Later notes will examine how such structures may form consistent regimes and how these regimes may be associated with what are commonly described as space, time, or other domains.
+
+---
+
+previous: [Stability and Reinforcement](stability-and-reinforcement.md) | [index](index.md) | next: [Modes of Appearance](modes-of-appearance.md)
