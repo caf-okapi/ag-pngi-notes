@@ -11,3 +11,7 @@ A structure may persist when its conditions do not lead to its failure and it is
 Under non-governance, both persistence and non-persistence are possible.
 
 Later notes will examine how such persistence may be maintained and how persistent structures may give rise to further structural organization.
+
+---
+
+previous: [Adversarial Generativity](adversarial-generativity.md) | [index](index.md) | next: [Closure](closure.md)
