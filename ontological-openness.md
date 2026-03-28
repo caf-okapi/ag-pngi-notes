@@ -11,3 +11,7 @@ Stability therefore does not require enforcement. A structure need not be dictat
 In this framework the central question changes. Instead of asking what rules produce or maintain reality, we ask what forms of coherence, if any, persist without foundational prescription.
 
 Later notes will examine how such persistence can arise.
+
+---
+
+previous: [Non-Governance](non-governance.md) | [index](index.md) | next: [The Possibility of Structure](the-possibility-of-structure.md)
