@@ -17,3 +17,7 @@ No single regime is assumed to be universal. Multiple regimes may be present, an
 What are commonly described as space, time, or physical domains may be associated with such regimes. In this framework, they are not foundational, but forms of structure that emerge through persistent conditions among closures.
 
 Later notes will examine how such regimes may be described as lawful and how such descriptions arise.
+
+---
+
+previous: [Modes of Appearance](modes-of-appearance.md) | [index](index.md) | next: [](.md)
