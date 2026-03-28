@@ -11,3 +11,7 @@ Stability refers to persistence that is maintained across a wider range of condi
 Not all closures are stable. Some may persist only under narrow conditions, while others may persist more broadly depending on their relations.
 
 Later notes will examine how compatible, coexisting closures may give rise to more complex structures and how such structures may form consistent structural regimes.
+
+---
+
+previous: [Compatibility and Incompatibility](compatibility-and-incompatibility.md) | [index](index.md) | next: [Composite and Emergent Structures](composite-and-emergent-structures.md)
