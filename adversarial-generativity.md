@@ -13,3 +13,7 @@ Generativity is therefore not merely productive. It is also adversarial. Structu
 This interference follows simply from the absence of foundational coordination among structures.
 
 As a result, many structures may fail to persist. Later notes will examine how persistence can nevertheless arise under such conditions.
+
+---
+
+previous: [No Prior Stage](no-prior-stage.md) | [index](index.md) | next: [Persistence](persistence.md)
