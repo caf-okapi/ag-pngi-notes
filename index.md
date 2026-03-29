@@ -49,7 +49,7 @@ This site may eventually contain short, focused notes on individual topics. Each
 ## 
 - [Structural Regimes](structural-regimes.md)
 - [Space as a Structural Regime](space-as-a-structural-regime.md)
-- []()
+- [Time as a Structural Regime](time-as-a-structural-regime.md)
 - []()
 
 ## 
