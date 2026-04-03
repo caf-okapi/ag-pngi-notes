@@ -18,4 +18,4 @@ Later notes will examine how such regimes may be described as lawful and how suc
 
 ---
 
-previous: [Modes of Appearance](modes-of-appearance.md) | [index](index.md) | next: [](.md)
+previous: [Modes of Appearance](modes-of-appearance.md) | [index](index.md) | next: [Space as a Structural Regime](space-as-structural-regime.md)
